@@ -21,7 +21,7 @@
       "github_trial_issue_link": "https://github.com/holdex/trial/issues/your_issue_number"
     }
     ```
-3. Create a Pull Request (PR) and wait for the review
+3. Create a Pull Request (PR), [attach it to this issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/linking-a-pull-request-to-an-issue#about-linked-issues-and-pull-requests) and wait for the review.
 
 # Questions? 
 If you have any questions, feel free to ask them directly in this issue 😉
