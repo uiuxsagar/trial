@@ -3,18 +3,16 @@
 
 # ✅ What's next?
 1. Familiarize yourself with our [Guidelines](https://github.com/holdex/developers/blob/main/.github/CONTRIBUTING.md);
-1. Execute a trial my merging two small PRs:
+1. Execute a trial by merging two small PRs:
     - 1st PR: submit your profile to our simple JSON file,
     - 2nd PR: complete a test to prove your skill (will be provided by our team member),
-1. Follow our socials or feel free to tweet about us.
-
+1. Follow our socials or consider tweeting about us.
 
 # How to Submit Your Profile  
 
 1. Fork this repository
-2. Add your profile in the file: 
+2. Add your profile in the `profile-submission.json` file: 
     ```json
-    // profile-submission.json
     {
       "github_handle": "your_github_username",
       "full_name": "Your Name",
