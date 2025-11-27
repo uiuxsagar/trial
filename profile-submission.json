@@ -385,6 +385,11 @@
       "github_trial_issue_link": "https://github.com/holdex/trial/issues/1012"
     },
     {
+      "github_handle": "alandsamuel",
+      "full_name": "Aland Samuel Tiwa",
+      "github_trial_issue_link": "https://github.com/holdex/trial/issues/1027"
+    },
+    {
       "github_handle": "calpa",
       "full_name": "Calpa Liu",
       "github_trial_issue_link": "https://github.com/holdex/trial/issues/1032"
@@ -398,6 +403,6 @@
       "github_handle": "Mutiu001",
       "full_name": "Mutiu Ajiboye",
       "github_trial_issue_link": "https://github.com/holdex/trial/issues/79"
-}
+    }
   ]
 }
