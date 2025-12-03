@@ -85,6 +85,8 @@ body:
         - "Python Engineer"
         - "Developer Relations (DevRel)"
         - "Senior Smart Contract Developer"
+        - "Executive Assistent"
         - "Actuarial Advisor"
+        - "Other"
     validations:
       required: true
